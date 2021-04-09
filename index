@@ -1,0 +1,1884 @@
+<html lang="en-US" class=" js_active  vc_mobile  vc_transform  vc_transform ">
+ <head> 
+  <meta charset="UTF-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"> 
+  <title>BIDOO NETWORK – IFO&amp;SHO PLATFORM</title> 
+  <link rel="dns-prefetch" href="//cdnjs.cloudflare.com"> 
+  <link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com"> 
+  <link rel="dns-prefetch" href="//fonts.googleapis.com"> 
+  <link rel="dns-prefetch" href="//s.w.org"> 
+  <link rel="alternate" type="application/rss+xml" title="BIDOO NETWORK » Feed" href="https://www.bidoo.network/feed/"> 
+  <link rel="alternate" type="application/rss+xml" title="BIDOO NETWORK » Comments Feed" href="https://www.bidoo.network/comments/feed/"> 
+  <script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.bidoo.network\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.6.2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script> 
+  <style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style> 
+  <link rel="stylesheet" id="wp-block-library-css" href="https://www.bidoo.network/wp-includes/css/dist/block-library/style.min.css?ver=5.6.2" type="text/css" media="all"> 
+  <link rel="stylesheet" id="rs-plugin-settings-css" href="https://www.bidoo.network/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.3.6" type="text/css" media="all"> 
+  <style id="rs-plugin-settings-inline-css" type="text/css">
+#rs-demo-id {}
+</style> 
+  <link rel="stylesheet" id="stm-stmicons-css" href="https://www.bidoo.network/wp-content/uploads/stm_fonts/stmicons/stmicons.css?ver=1.0.2" type="text/css" media="all"> 
+  <link rel="stylesheet" id="stm_megamenu-css" href="https://www.bidoo.network/wp-content/plugins/stm-configurations/megamenu/assets/css/megamenu.css?ver=1.4" type="text/css" media="all"> 
+  <link rel="stylesheet" id="font-awesome-css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=4.7.0" type="text/css" media="all"> 
+  <link rel="stylesheet" id="vcw-style-css" href="https://www.bidoo.network/wp-content/plugins/virtual_coin_widgets/assets/css/vcw.css?ver=2.2.2" type="text/css" media="all"> 
+  <link rel="stylesheet" id="bootstrap-css" href="https://www.bidoo.network/wp-content/themes/crypterio/assets/css/bootstrap.min.css?ver=2.4.0" type="text/css" media="all"> 
+  <link rel="stylesheet" id="crypterio-style-css" href="https://www.bidoo.network/wp-content/themes/crypterio/style.css?ver=2.4.0" type="text/css" media="all"> 
+  <link rel="stylesheet" id="crypterio-layout-css" href="https://www.bidoo.network/wp-content/themes/crypterio/assets/css/ico_purple/main.css?ver=2.4.0" type="text/css" media="all"> 
+  <style id="crypterio-layout-inline-css" type="text/css">
+.page_title{ background-repeat: no-repeat !important; }body.site_creative_ico .vc_custom_heading.stripe_bottom:before, body.site_creative_ico .vc_custom_heading.stripe_top:before {
+			background: linear-gradient(to right, #ffc40c, #dd9c39);
+		}.mtc, .mtc_h:hover, .stm_news_list__more.loading:before, .site_crypto_blog ul.comment-list .comment .comment-author a, .site_crypto_blog ul.comment-list .comment .comment-meta a{
+					color: #dd8d16!important
+				}.stc, .stc_h:hover, .stm_post_view__related .stm_news_widget .stm_news_grid__category a:hover, .stm_posts_carousel_single__category:hover a, .stm_single_ico__button.stm_single_ico__button_whitepaper i, .font-color_secondary{
+					color: #dd9c39!important
+				}.ttc, .ttc_h:hover{
+					color: #ffc40c!important
+				}.mbc, .mbc_h:hover{
+					background-color: #dd8d16!important
+				}.sbc, .sbc_h:hover, .sbc_a:after, .stm_news_carousel .owl-controls .owl-nav>div:hover, .stm_single_ico__comments h4.comments-title:after, .secondary_bg_color{
+					background-color: #dd9c39!important
+				}.tbc, .tbc_h:hover, .tbc_a_h:hover:after, .stm_single_ico__button, .stm_single_ico__button.stm_single_ico__button_whitepaper:hover{
+					background-color: #ffc40c!important
+				}.mbdc, .mbdc_h:hover{
+					border-color: #dd8d16!important
+				}.sbdc, .sbdc_h:hover, .stm_news_carousel .owl-controls .owl-nav>div:hover{
+					border-color: #dd9c39!important
+				}.tbdc, .tbdc_h:hover, .stm_single_ico__button.stm_single_ico__button_whitepaper{
+					border-color: #ffc40c!important
+				}
+</style> 
+  <link rel="stylesheet" id="select2-css" href="https://www.bidoo.network/wp-content/themes/crypterio/assets/css/vendors/select2.min.css?ver=2.4.0" type="text/css" media="all"> 
+  <link rel="stylesheet" id="crypterio-default-font-css" href="https://fonts.googleapis.com/css?family=Karla%3A400%2C700%7CExo%2B2%3A400%2C500%2C600%2C700&amp;ver=2.4.0" type="text/css" media="all"> 
+  <link rel="stylesheet" id="stm-skin-custom-generated-css" href="https://www.bidoo.network/wp-content/uploads/stm_uploads/skin-custom.css?ver=1573" type="text/css" media="all"> 
+  <link rel="stylesheet" id="crypterio-shared-css" href="https://www.bidoo.network/wp-content/themes/crypterio/assets/css/shared/main.css?ver=2.4.0" type="text/css" media="all"> 
+  <link rel="stylesheet" id="js_composer_front-css" href="https://www.bidoo.network/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.5.0" type="text/css" media="all"> 
+  <link rel="stylesheet" id="stm_hb_main-css" href="https://www.bidoo.network/wp-content/plugins/pearl-header-builder/assets/frontend/assets/css/header/main.css?ver=1.0" type="text/css" media="all"> 
+  <link rel="stylesheet" id="stm_hb_sticky-css" href="https://www.bidoo.network/wp-content/plugins/pearl-header-builder/assets/frontend/assets/vendor/sticky.css?ver=1.0" type="text/css" media="all"> 
+  <link rel="stylesheet" id="fontawesome-css" href="https://www.bidoo.network/wp-content/plugins/pearl-header-builder/assets/frontend/assets/css/font-awesome.min.css?ver=1.0" type="text/css" media="all"> 
+  <link rel="stylesheet" id="stm-google-fonts-css" href="//fonts.googleapis.com/css?family=Karla%3Aregular%2Citalic%2C700%2C100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C500%2C500italic%2C600%2C600italic%2C700italic%2C800%2C800italic%2C900%2C900italic%7CExo+2%3Aregular%2Citalic%2C700%2C100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C500%2C500italic%2C600%2C600italic%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;subset=cyrillic%2Clatin%2Clatin-ext&amp;ver=2.4.0" type="text/css" media="all"> 
+  <link rel="https://api.w.org/" href="https://www.bidoo.network/wp-json/">
+  <link rel="alternate" type="application/json" href="https://www.bidoo.network/wp-json/wp/v2/pages/12">
+  <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.bidoo.network/xmlrpc.php?rsd"> 
+  <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.bidoo.network/wp-includes/wlwmanifest.xml"> 
+  <meta name="generator" content="WordPress 5.6.2"> 
+  <link rel="canonical" href="https://www.bidoo.network/"> 
+  <link rel="shortlink" href="https://www.bidoo.network/"> 
+  <link rel="alternate" type="application/json+oembed" href="https://www.bidoo.network/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.bidoo.network%2F"> 
+  <link rel="alternate" type="text/xml+oembed" href="https://www.bidoo.network/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.bidoo.network%2F&amp;format=xml"> 
+  <script type="text/javascript">
+            var ajaxurl = 'https://www.bidoo.network/wp-admin/admin-ajax.php';
+        </script> 
+  <style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+  <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."> 
+  <meta name="generator" content="Powered by Slider Revolution 6.3.6 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."> 
+  <link rel="icon" href="https://www.bidoo.network/wp-content/uploads/2021/03/cropped-LOGO-512-px-32x32.jpg" sizes="32x32"> 
+  <link rel="icon" href="https://www.bidoo.network/wp-content/uploads/2021/03/cropped-LOGO-512-px-192x192.jpg" sizes="192x192"> 
+  <link rel="apple-touch-icon" href="https://www.bidoo.network/wp-content/uploads/2021/03/cropped-LOGO-512-px-180x180.jpg"> 
+  <meta name="msapplication-TileImage" content="https://www.bidoo.network/wp-content/uploads/2021/03/cropped-LOGO-512-px-270x270.jpg"> 
+  <script type="text/javascript">function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {				 
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;	
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;	
+				try {								
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);		
+					if(e.layout==="fullscreen" || e.l==="fullscreen") 						
+						newh = Math.max(e.mh,window.RSIH);					
+					else{					
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];					
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,						
+							sl;					
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;					
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];									
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}															
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);					
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}				
+					if(window.rs_init_css===undefined) window.rs_init_css = document.head.appendChild(document.createElement("style"));					
+					document.getElementById(e.c).height = newh+"px";
+					window.rs_init_css.innerHTML += "#"+e.c+"_wrapper { height: "+newh+"px }";				
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}					   
+			//});
+		  };</script> 
+  <style type="text/css" title="dynamic-css" class="options-output">body,
+					body .vc_general.vc_btn3 small,
+					.default_widgets .widget.widget_nav_menu ul li .children li,
+					.default_widgets .widget.widget_categories ul li .children li,
+					.default_widgets .widget.widget_product_categories ul li .children li,
+					.stm_sidebar .widget.widget_nav_menu ul li .children li,
+					.stm_sidebar .widget.widget_categories ul li .children li,
+					.stm_sidebar .widget.widget_product_categories ul li .children li,
+					.shop_widgets .widget.widget_nav_menu ul li .children li,
+					.shop_widgets .widget.widget_categories ul li .children li,
+					.shop_widgets .widget.widget_product_categories ul li .children li,
+					body.header_style_4 .header_top .icon_text .text strong,
+					.stm_ico_countdown__button,
+					.wpb_text_column ul li,
+					.button,
+					.woocommerce a.button,
+					.woocommerce button.button,
+					.woocommerce input.button,
+					.icon_box.style_2 h5,
+					.stm-header.stm-header__hb .stm-cart_style_1 .cart_rounded{font-family:Karla;}h1, .h1,
+					h2, .h2,
+					h3, .h3,
+					h4, .h4,
+					h5, .h5,
+					h6, .h6,
+					.top_nav .top_nav_wrapper > ul,
+					.top_nav .icon_text strong,
+					.stm_testimonials .item .testimonial-info .testimonial-text .name,
+					.stats_counter .counter_title,
+					.stm_contact .stm_contact_info .stm_contact_job,
+					.vacancy_table_wr .vacancy_table thead th,
+					.testimonials_carousel .testimonial .info .position,
+					.testimonials_carousel .testimonial .info .company,
+					.stm_gmap_wrapper .gmap_addresses .addresses .item .title,
+					.company_history > ul > li .year,
+					.stm_contacts_widget,
+					.stm_works_wr.grid .stm_works .item .item_wr .title,
+					.stm_works_wr.grid_with_filter .stm_works .item .info .title,
+					.consulting-rev-title,
+					.consulting-rev-title-2,
+					.consulting-rev-title-3,
+					.consulting-rev-text,
+					body .vc_tta-container .vc_tta.vc_general.vc_tta-tabs.theme_style .vc_tta-tabs-container .vc_tta-tabs-list .vc_tta-tab a,
+					strong, b,
+					.woocommerce-cart .wc-proceed-to-checkout a.checkout-button,
+					.woocommerce input.button.alt,
+					.request_callback p,
+					ul.comment-list .comment .comment-author,
+					.page-numbers .page-numbers,
+					#footer .footer_widgets .widget.widget_recent_entries ul li a,
+					.default_widgets .widget.widget_nav_menu ul li,
+					.default_widgets .widget.widget_categories ul li,
+					.default_widgets .widget.widget_product_categories ul li,
+					.stm_sidebar .widget.widget_nav_menu ul li, .stm_sidebar .widget.widget_categories ul li,
+					.stm_sidebar .widget.widget_product_categories ul li,
+					.shop_widgets .widget.widget_nav_menu ul li,
+					.shop_widgets .widget.widget_categories ul li,
+					.shop_widgets .widget.widget_product_categories ul li,
+					.default_widgets .widget.widget_recent_entries ul li a,
+					.stm_sidebar .widget.widget_recent_entries ul li a,
+					.shop_widgets .widget.widget_recent_entries ul li a,
+					.woocommerce .widget_price_filter .price_slider_amount .button,
+					.woocommerce ul.product_list_widget li .product-title,
+					.woocommerce ul.products li.product .price,
+					.woocommerce a.added_to_cart,
+					.woocommerce div.product .woocommerce-tabs ul.tabs li a,
+					.woocommerce div.product form.cart .variations label,
+					.woocommerce table.shop_table th,
+					.woocommerce-cart table.cart th.product-name a,
+					.woocommerce-cart table.cart td.product-name a,
+					.woocommerce-cart table.cart th .amount,
+					.woocommerce-cart table.cart td .amount,
+					.stm_services .item .item_wr .content .read_more,
+					.staff_list ul li .staff_info .staff_department,
+					.stm_partner.style_2 .stm_partner_content .position,
+					.comment-body .comment-text ul li,
+					body.header_style_4 .header_top .icon_text.big .text strong,
+					.info_box .read_more,
+					.stm_services_tabs .service_tab_item .service_name,
+					.stm_services_tabs .services_categories ul li a,
+					.stm_services_tabs .service_tab_item .service_cost,
+					.vc_custom_heading .subtitle,
+					.stm_gmap_wrapper .gmap_addresses .addresses .item .title,
+					.info_box h4,
+					.testimonials_carousel.style_2 .item .testimonial-info .testimonial-text .name,
+					.staff_carousel_item .staff_department,
+					body.header_style_5 .header_top .info-text strong,
+					.stm_works_wr.grid_2.style_1 .stm_works .item .item_wr .title,
+					.stm_works_wr.grid_2.style_2 .stm_works .item .item_wr .title,
+					.stm_works_wr.grid_with_filter.style_1 .stm_works .item .item_wr .title,
+					.stm_works_wr.grid_with_filter.style_2 .stm_works .item .item_wr .title,
+					body.header_style_7 .side_nav .main_menu_nav > li > a,
+					body.header_style_7 .side_nav .main_menu_nav > li ul li a,
+					body.header_style_5 .header_top .info-text b,
+					.pcw-box,
+					.pcw.pcw-table.pcw-basic table thead tr th,
+					.wpb_text_column .comment-text h6, .comment-body .comment-text h6,
+					.stm_timeline-wrap .timeline-item .timeline-date .timeline_year,
+					.stm_mailchimp_form .mailchimp_text .form_subtitle,
+					.stm-rating_wrap.style_2,
+					.stm_panel_box .stm_panel_box__title,
+					.icon_box.style_4 .icon_text p,
+					.stm_ico_countdown.style_3 .stm_countdown_wrap .stm_left_countdown .countdown-wrap.container .clock-item .inner .text .val,
+					.heading_font{font-family:"Exo 2";}body{font-size:16px;}p{line-height:30px;}h1, .h1{font-weight:800;}h1, .h1{font-size:54px;}h1, .h1{text-transform:uppercase;}h2, .h2{letter-spacing:0px;}h4, .h4{font-weight:600;}h5, .h5{letter-spacing:0px;}</style> 
+  <style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1533904584077{background-image: url(http://crypterio.stylemixthemes.com/ico-purple/wp-content/uploads/sites/15/2018/08/top-bg_01.jpg?id=4420) !important;background-position: 0 0 !important;background-repeat: no-repeat !important;}.vc_custom_1533896200033{border-top-width: 1px !important;padding-top: 60px !important;padding-bottom: 60px !important;border-top-color: #524c7b !important;border-top-style: solid !important;}.vc_custom_1533897601585{background-image: url(http://crypterio.stylemixthemes.com/ico-purple/wp-content/uploads/sites/15/2018/08/footer-bg_02.png?id=4413) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: contain !important;}.vc_custom_1533794693395{background-image: url(http://crypterio.stylemixthemes.com/ico-purple/wp-content/uploads/sites/15/2018/08/stmx_07.png?id=4375) !important;background-position: 0 0 !important;background-repeat: no-repeat !important;}.vc_custom_1533806261321{background-position: 0 0 !important;background-repeat: no-repeat !important;}.vc_custom_1615969997568{padding-right: 90px !important;}.vc_custom_1615975011048{margin-right: 20px !important;}.vc_custom_1615893639415{margin-right: 20px !important;}.vc_custom_1615895350782{margin-right: 20px !important;}.vc_custom_1533810611731{border-bottom-width: 1px !important;padding-bottom: 25px !important;border-bottom-color: #564d7b !important;border-bottom-style: solid !important;}.vc_custom_1533895666361{padding-right: 45px !important;}.vc_custom_1533895678399{padding-left: 45px !important;}</style>
+  <noscript>
+   <style> .wpb_animate_when_almost_visible { opacity: 1; }</style>
+  </noscript> 
+ </head> 
+ <body class="home page-template-default page page-id-12 site_ico_purple  header_style_1 header_transparent wpb-js-composer js-comp-ver-6.5.0 vc_responsive" ontouchstart="true"> 
+  <div id="wrapper"> 
+   <div id="fullpage" class="content_wrapper"> 
+    <header id="header"> 
+     <style type="text/css" id="styles-stm_hb_settings">@media (max-width:1023px) and (min-width:425px) {.stm-header__element.object246{order: -2100}}@media (max-width:425px) {.stm-header__element.object246{order: -2100}}.stm-header__element.object246{}@media (max-width:1023px) and (min-width:425px) {.stm-header__element.object2195{order: -2300}}@media (max-width:425px) {.stm-header__element.object2195{order: -2300}}.stm-header__element.object2195{}@media (max-width:1023px) and (min-width:425px) {.stm-header__element.object238{order: -1100}}@media (max-width:425px) {.stm-header__element.object238{order: -1100}}.stm-header__element.object238{}.stm-header{}.stm-header:before{}.stm-header__row_color_top{color:rgba(255, 255, 255, 0.6);} .stm-header__row_color_top .stm-icontext__text {color:rgba(255, 255, 255, 0.6);} .stm-header__row_color_top a {color:rgba(255, 255, 255, 0.6);} .stm-header__row_color_top .dropdown-toggle {color:rgba(255, 255, 255, 0.6)!important;} .stm-header__row_color_top a:hover, .stm-navigation__default > ul > li > a:hover {color:#fffefe!important;} .stm-header__row_color_top li:hover a {color:#fffefe;} .stm-header__row_color_top .stm-switcher__trigger_default:after {border-top-color:rgba(255, 255, 255, 0.6);} .stm-header__row_color_top .dropdown-toggle:after {border-top-color:rgba(255, 255, 255, 0.6)!important;}.stm-header__row_color_top:before{}.stm-header__row_color_center{padding-top:30px;padding-bottom:30px;color:#ffffff;} .stm-header__row_color_center .stm-icontext__text {color:#ffffff;} .stm-header__row_color_center a {color:#ffffff;} .stm-header__row_color_center .dropdown-toggle {color:#ffffff!important;} .stm-header__row_color_center li:hover > a {color:#9347a2!important;} .stm-header__row_color_center a:hover, .stm-navigation__default > ul > li > a:hover {color:#9347a2!important;} .stm-header__row_color_center a > .divider {color:#ffffff!important;} .stm-header__row_color_center a:hover > .divider {color:#ffffff!important;} .stm-header__row_color_center li:hover > a > .divider {color:#ffffff!important;} .stm-header__row_color_center .stm-switcher__trigger_default:after {border-top-color:#ffffff;} .stm-header__row_color_center .dropdown-toggle:after {border-top-color:#ffffff!important;}.stm-header__row_color_center:before{}.stm-header__row_color_bottom{} .stm-header__row_color_bottom .stm-icontext__text {color:;} .stm-header__row_color_bottom a {color:;} .stm-header__row_color_bottom .dropdown-toggle {color:!important;} .stm-header__row_color_bottom a:hover, .stm-navigation__default > ul > li > a:hover {color:!important;} .stm-header__row_color_bottom li:hover a {color:;} .stm-header__row_color_bottom .stm-switcher__trigger_default:after {border-top-color:;} .stm-header__row_color_bottom .dropdown-toggle:after {border-top-color:!important;}.stm-header__row_color_bottom:before{}                .stm_hb_mtc,.stm_hb_mtc_h:hover,.stm_hb_mtc_b:before,.stm_hb_mtc_b_h:hover:before,.stm_hb_mtc_a:after,.stm_hb_mtc_a_h:hover:after,.stm_hb_mtc_a_h.active,.mini-cart {color: #9347a2 !important}
+                            .stm_hb_stc,.stm_hb_stc_h:hover,.stm_hb_stc_a:after,.stm_hb_stc_a_h:hover:after,.stm_hb_stc_b:before,.stm_hb_stc_b_h:hover:before {color: #ffffff !important}
+                            .stm_hb_ttc,.stm_hb_ttc_h:hover,.stm_hb_ttc_a:after,.stm_hb_ttc_a_h:hover:after,.stm_hb_ttc_b:before,.stm_hb_ttc_b_h:hover:before {color: #9347a2 !important}
+                            .stm_hb_mbc,.stm_hb_mbc_h:hover,.stm_hb_mbc_b:before,.stm_hb_mbc_b_h:hover:before,.stm_hb_mbc_a:after,.stm_hb_mbc_a_h:hover:after,.stm_hb_mbc_h.active,.stm-search .stm_widget_search button[type=submit] {background-color: #9347a2 !important}
+                            .stm_hb_sbc,.stm_hb_sbc_h:hover,.stm_hb_sbc_a:after,.stm_hb_sbc_a_h:hover:after,.stm_hb_sbc_b:before,.stm_hb_sbc_b_h:hover:before {background-color: #ffffff !important}
+                            .stm_hb_tbc,.stm_hb_tbc_h:hover,.stm_hb_tbc_h.active,.stm_hb_tbc_a:after,.stm_hb_tbc_a_h:hover:after,.stm_hb_tbc_b:before,.stm_hb_tbc_b_h:hover:before {background-color: #9347a2 !important}
+                            .stm_hb_mbdc,.stm_hb_mbdc_h:hover,.stm_hb_mbdc_b:before,.stm_hb_mbdc_b_h:hover:before,.stm_hb_mbdc_a:after,.stm_hb_mbdc_a_h:hover:after,.stm-search .stm_widget_search .form-control:focus {border-color: #9347a2 !important}
+                            .stm_hb_sbdc,.stm_hb_sbdc_h:hover,.stm_hb_sbdc_a:after,.stm_hb_sbdc_a_h:hover:after,.stm_hb_sbdc_b:before,.stm_hb_sbdc_b_h:hover:before {border-color: #ffffff !important}
+                            .stm_hb_tbdc,.stm_hb_tbdc_h:hover,.stm_hb_tbdc_a:after,.stm_hb_tbdc_a_h:hover:after,.stm_hb_tbdc_b:before,.stm_hb_tbdc_b_h:hover:before {border-color: #9347a2 !important}
+            </style> 
+     <script type="text/javascript">
+    var stm_sticky = 'center';
+</script> 
+     <div class="stm-header stm-header__hb" id="stm_stm_hb_settings"> 
+      <div class="pearl_sticky_holder hidden" style="height:477.763px"></div>
+      <div class="stm-header__row_color stm-header__row_color_center elements_in_row_2"> 
+       <div class="container"> 
+        <div class="stm-header__row stm-header__row_center"> 
+         <div class="stm-header__cell stm-header__cell_left"> 
+          <div class="stm-header__element object246 stm-header__element_"> 
+           <div class="stm-logo"> 
+            <a href="https://www.bidoo.network" title=""> <img alt="Logo" src="https://www.bidoo.network/wp-content/uploads/2021/03/LOGO-150px.png"> </a> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="stm-header__cell stm-header__cell_right"> 
+          <div class="stm-header__element object2195 stm-header__element_default"> 
+           <style type="text/css">body .stm-header__hb .stm-header__element.object2195 .stm-navigation > ul > li:hover > a, body .stm-header__hb .stm-header__element.object2195 .stm-navigation > ul > li > a:hover { color: #fff !important; }</style> 
+           <div class="stm-navigation heading_font stm-navigation__default stm-navigation__default stm-navigation__none stm-navigation__ main_menu_nav"> 
+            <ul> 
+             <li id="menu-item-4421" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4421"><a href="#about">About BIDOO</a></li> 
+             <li id="menu-item-4422" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4422"><a href="#how_it_works">IDO&amp;SHO</a></li> 
+             <li id="menu-item-4463" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4463"><a href="#token">Roadmap</a></li> 
+             <li id="menu-item-4461" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4461"><a href="#roadmap">Token</a></li> 
+             <li id="menu-item-4462" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4462"><a href="https://www.bscscan.com/token/0x9ec649600649eebaafef45cc7f2168894b881110">BIDOO TOKEN</a></li> 
+             <li id="menu-item-4537" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4537"><a href="#">INFO</a></li> 
+            </ul> 
+           </div> 
+          </div> 
+          <div class="stm-header__element object238 stm-header__element_"> 
+           <div class="stm-dropdown stm-dropdown_style_1"> 
+            <div class="dropdown"> 
+             <div class="dropdown-toggle stm_hb_mbc" id="yoKNRaElDp" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" type="button">
+               Eng 
+             </div> 
+             <ul class="dropdown-list stm_hb_mbc" aria-labelledby="yoKNRaElDp"> 
+              <li> <a href="#fr" class="stm-switcher__option"> Fr </a> </li> 
+              <li> <a href="#it" class="stm-switcher__option"> It </a> </li> 
+             </ul> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="stm-header__overlay"></div> 
+     <div class="stm_mobile__header"> 
+      <div class="container"> 
+       <div class="stm_flex stm_flex_center stm_flex_last stm_flex_nowrap"> 
+        <div class="stm_mobile__logo"> 
+         <a href="https://www.bidoo.network/" title="Home"> <img src="https://www.bidoo.network/wp-content/uploads/2021/03/LOGO-150px.png" alt="Site Logo"> </a> 
+        </div> 
+        <div class="stm_mobile__switcher stm_flex_last js_trigger__click" data-element=".stm-header, .stm-header__overlay" data-toggle="false"> 
+         <span class="stm_hb_mbc"></span> 
+         <span class="stm_hb_mbc"></span> 
+         <span class="stm_hb_mbc"></span> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </header> 
+    <div id="main"> 
+     <div class="container"> 
+      <div class="content-area"> 
+       <article id="post-12" class="post-12 page type-page status-publish hentry"> 
+        <div class="entry-content"> 
+         <section id="overview" data-vc-full-width="true" data-vc-full-width-init="true" class="vc_section vc_custom_1533904584077 vc_section-has-fill" style="background-position: center top !important; position: relative; left: 0px; box-sizing: border-box; width: 424px; padding-left: 0px; padding-right: 0px;"> 
+          <div data-vc-full-width="true" data-vc-full-width-init="true" class="vc_row wpb_row vc_row-fluid" style="position: relative; left: 0px; box-sizing: border-box; width: 424px; padding-left: 0px; padding-right: 0.005px;"> 
+           <div class="wpb_column vc_column_container vc_col-sm-12"> 
+            <div class="vc_column-inner "> 
+             <div class="wpb_wrapper"> 
+              <div class="stm-spacing" id="stm-spacing-605ef80ed6eb7" style="height: 40px;"></div> 
+              <script>
+	(function($){
+		"use strict";
+		var spacingID = 'stm-spacing-605ef80ed6eb7',
+			  lgSpacing = '236',
+			  mdSpacing = '220',
+			  smSpacing = '100',
+			  xsSpacing = '40';
+
+		function stmSpacing() {
+			if ( window.matchMedia("(min-width: 1200px)").matches && lgSpacing ) {
+				$( '#' + spacingID ).css ( "height", lgSpacing );
+			} else if ( window.matchMedia("(max-width: 1199px) and (min-width: 992px )").matches && mdSpacing ) {
+				$( '#' + spacingID ).css ( "height", mdSpacing );
+			} else if ( window.matchMedia("(max-width: 991px) and (min-width: 768px )").matches && smSpacing ) {
+				$( '#' + spacingID ).css ( "height", smSpacing );
+			} else if ( window.matchMedia("(max-width: 767px)").matches && xsSpacing ) {
+				$( '#' + spacingID ).css ( "height", xsSpacing );
+			} else {
+				$( '#' + spacingID ).css ( "height", "" );
+			}
+		}
+
+		$(document).ready(function() {
+			stmSpacing();
+		});
+
+		$(window).resize(function() {
+			stmSpacing();
+		});
+
+	})(jQuery);
+</script> 
+              <div class="vc_row wpb_row vc_inner vc_row-fluid">
+               <div class="wpb_column vc_column_container vc_col-sm-6">
+                <div class="vc_column-inner">
+                 <div class="wpb_wrapper">
+                  <div class="vc_custom_heading text_align_left wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp stripe_bottom" style="animation-delay:.2s">
+                   <h1 style="text-align: left">BIDOO NETWORK On Binance Smart Chain</h1>
+                  </div>
+                  <div class="stm-spacing" id="stm-spacing-605ef80ed7a21" style="height: 30px;"></div> 
+                  <script>
+	(function($){
+		"use strict";
+		var spacingID = 'stm-spacing-605ef80ed7a21',
+			  lgSpacing = '50',
+			  mdSpacing = '40',
+			  smSpacing = '30',
+			  xsSpacing = '30';
+
+		function stmSpacing() {
+			if ( window.matchMedia("(min-width: 1200px)").matches && lgSpacing ) {
+				$( '#' + spacingID ).css ( "height", lgSpacing );
+			} else if ( window.matchMedia("(max-width: 1199px) and (min-width: 992px )").matches && mdSpacing ) {
+				$( '#' + spacingID ).css ( "height", mdSpacing );
+			} else if ( window.matchMedia("(max-width: 991px) and (min-width: 768px )").matches && smSpacing ) {
+				$( '#' + spacingID ).css ( "height", smSpacing );
+			} else if ( window.matchMedia("(max-width: 767px)").matches && xsSpacing ) {
+				$( '#' + spacingID ).css ( "height", xsSpacing );
+			} else {
+				$( '#' + spacingID ).css ( "height", "" );
+			}
+		}
+
+		$(document).ready(function() {
+			stmSpacing();
+		});
+
+		$(window).resize(function() {
+			stmSpacing();
+		});
+
+	})(jQuery);
+</script> 
+                  <div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_custom_1615969997568" style="animation-delay:.4s"> 
+                   <div class="wpb_wrapper"> 
+                    <p>BIDOO NETWORK is a Decentralized Finance ecosystem on the Binance Smart Chain. <span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMlRoZSUyME5ldHdvcmslMjBpcyUyMGRldmVsb3BlZCUyMHRvJTIwcHJvdmlkZSUyMGZpbmFuY2lhbCUyMHByb2R1Y3RzJTIwYW5kJTIwc2VydmljZXMlMjBmb3IlMjBpbnZlc3RvcnMlMjBhbmQlMjBidXNpbmVzcyUyMHByb2plY3RzJTIwd2l0aCUyMHRoZSUyMGFpbSUyMG9mJTIwbWFuYWdpbmclMjBhcyUyMHdlbGwlMjBhcyUyMGdyb3dpbmclMjBjcnlwdG8lMjBhc3NldHMuJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlN0QlNUQlN0QlNUQlN0QlNUQlN0Q=">The Network is developed to provide financial products and services for investors and business projects with the aim of managing as well as growing crypto assets.</span></p> 
+                    <p>To act as a 3-in-1 (SHO, IDO, IFO) fundraising platform so that you easily earn rewards by performing only single action – “Storing BIDOO Tokens On Your Wallet”.</p> 
+                   </div> 
+                  </div> 
+                  <div class="stm-spacing" id="stm-spacing-605ef80ed7ceb" style="height: 10px;"></div> 
+                  <script>
+	(function($){
+		"use strict";
+		var spacingID = 'stm-spacing-605ef80ed7ceb',
+			  lgSpacing = '16',
+			  mdSpacing = '15',
+			  smSpacing = '10',
+			  xsSpacing = '10';
+
+		function stmSpacing() {
+			if ( window.matchMedia("(min-width: 1200px)").matches && lgSpacing ) {
+				$( '#' + spacingID ).css ( "height", lgSpacing );
+			} else if ( window.matchMedia("(max-width: 1199px) and (min-width: 992px )").matches && mdSpacing ) {
+				$( '#' + spacingID ).css ( "height", mdSpacing );
+			} else if ( window.matchMedia("(max-width: 991px) and (min-width: 768px )").matches && smSpacing ) {
+				$( '#' + spacingID ).css ( "height", smSpacing );
+			} else if ( window.matchMedia("(max-width: 767px)").matches && xsSpacing ) {
+				$( '#' + spacingID ).css ( "height", xsSpacing );
+			} else {
+				$( '#' + spacingID ).css ( "height", "" );
+			}
+		}
+
+		$(document).ready(function() {
+			stmSpacing();
+		});
+
+		$(window).resize(function() {
+			stmSpacing();
+		});
+
+	})(jQuery);
+</script> 
+                  <style type="text/css">
+        .vc_btn3-605ef80ed8537:hover {
+            background-color:  !important;
+        }
+    </style> 
+                  <div class="vc_btn3-container  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_btn3-inline vc_custom_1615975011048" style="animation-delay:.6s"> 
+                   <a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-round vc_btn3-style-outline vc_btn3-605ef80ed8537 vc_btn3-color-white" href="https://bidoo-network.medium.com/introducing-into-bidoo-network-d027b9504fad" title="" target="_blank">BLOG</a>
+                  </div> 
+                  <style type="text/css">
+        .vc_btn3-605ef80ed874a:hover {
+            background-color:  !important;
+        }
+    </style> 
+                  <div class="vc_btn3-container  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_btn3-inline vc_custom_1615893639415" style="animation-delay:.6s"> 
+                   <a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-round vc_btn3-style-outline vc_btn3-605ef80ed874a vc_btn3-color-grey" href="https://docs.bidoo.network/" title="" target="_blank">DOCS</a>
+                  </div> 
+                 </div>
+                </div>
+               </div>
+               <div class="wpb_column vc_column_container vc_col-sm-6">
+                <div class="vc_column-inner">
+                 <div class="wpb_wrapper"></div>
+                </div>
+               </div>
+              </div>
+              <div class="stm-spacing" id="stm-spacing-605ef80ed8977" style="height: 40px;"></div> 
+              <script>
+	(function($){
+		"use strict";
+		var spacingID = 'stm-spacing-605ef80ed8977',
+			  lgSpacing = '142',
+			  mdSpacing = '80',
+			  smSpacing = '40',
+			  xsSpacing = '40';
+
+		function stmSpacing() {
+			if ( window.matchMedia("(min-width: 1200px)").matches && lgSpacing ) {
+				$( '#' + spacingID ).css ( "height", lgSpacing );
+			} else if ( window.matchMedia("(max-width: 1199px) and (min-width: 992px )").matches && mdSpacing ) {
+				$( '#' + spacingID ).css ( "height", mdSpacing );
+			} else if ( window.matchMedia("(max-width: 991px) and (min-width: 768px )").matches && smSpacing ) {
+				$( '#' + spacingID ).css ( "height", smSpacing );
+			} else if ( window.matchMedia("(max-width: 767px)").matches && xsSpacing ) {
+				$( '#' + spacingID ).css ( "height", xsSpacing );
+			} else {
+				$( '#' + spacingID ).css ( "height", "" );
+			}
+		}
+
+		$(document).ready(function() {
+			stmSpacing();
+		});
+
+		$(window).resize(function() {
+			stmSpacing();
+		});
+
+	})(jQuery);
+</script> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="vc_row-full-width vc_clearfix"></div> 
+          <div id="about" class="vc_row wpb_row vc_row-fluid" style="&quot;&quot;"> 
+           <div class="wpb_column vc_column_container vc_col-sm-12"> 
+            <div class="vc_column-inner "> 
+             <div class="wpb_wrapper"> 
+              <div class="stm-spacing" id="stm-spacing-605ef80ed8e9e" style="height: 30px;"></div> 
+              <script>
+	(function($){
+		"use strict";
+		var spacingID = 'stm-spacing-605ef80ed8e9e',
+			  lgSpacing = '15',
+			  mdSpacing = '15',
+			  smSpacing = '40',
+			  xsSpacing = '30';
+
+		function stmSpacing() {
+			if ( window.matchMedia("(min-width: 1200px)").matches && lgSpacing ) {
+				$( '#' + spacingID ).css ( "height", lgSpacing );
+			} else if ( window.matchMedia("(max-width: 1199px) and (min-width: 992px )").matches && mdSpacing ) {
+				$( '#' + spacingID ).css ( "height", mdSpacing );
+			} else if ( window.matchMedia("(max-width: 991px) and (min-width: 768px )").matches && smSpacing ) {
+				$( '#' + spacingID ).css ( "height", smSpacing );
+			} else if ( window.matchMedia("(max-width: 767px)").matches && xsSpacing ) {
+				$( '#' + spacingID ).css ( "height", xsSpacing );
+			} else {
+				$( '#' + spacingID ).css ( "height", "" );
+			}
+		}
+
+		$(document).ready(function() {
+			stmSpacing();
+		});
+
+		$(window).resize(function() {
+			stmSpacing();
+		});
+
+	})(jQuery);
+</script> 
+              <div class="vc_custom_heading text_align_center stripe_bottom">
+               <h2 style="font-size: 42px;line-height: 48px;text-align: center">BIDOO TOKEN</h2>
+              </div>
+              <div class="stm-spacing" id="stm-spacing-605ef80ed9112" style="height: 20px;"></div> 
+              <script>
+	(function($){
+		"use strict";
+		var spacingID = 'stm-spacing-605ef80ed9112',
+			  lgSpacing = '45',
+			  mdSpacing = '40',
+			  smSpacing = '30',
+			  xsSpacing = '20';
+
+		function stmSpacing() {
+			if ( window.matchMedia("(min-width: 1200px)").matches && lgSpacing ) {
+				$( '#' + spacingID ).css ( "height", lgSpacing );
+			} else if ( window.matchMedia("(max-width: 1199px) and (min-width: 992px )").matches && mdSpacing ) {
+				$( '#' + spacingID ).css ( "height", mdSpacing );
+			} else if ( window.matchMedia("(max-width: 991px) and (min-width: 768px )").matches && smSpacing ) {
+				$( '#' + spacingID ).css ( "height", smSpacing );
+			} else if ( window.matchMedia("(max-width: 767px)").matches && xsSpacing ) {
+				$( '#' + spacingID ).css ( "height", xsSpacing );
+			} else {
+				$( '#' + spacingID ).css ( "height", "" );
+			}
+		}
+
+		$(document).ready(function() {
+			stmSpacing();
+		});
+
+		$(window).resize(function() {
+			stmSpacing();
+		});
+
+	})(jQuery);
+</script> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+          <div data-vc-full-width="true" data-vc-full-width-init="true" class="vc_row wpb_row vc_row-fluid vc_custom_1533794693395 vc_row-has-fill" style="position: relative; left: 0px; box-sizing: border-box; width: 424px; padding-left: 0px; padding-right: 0.005px;" right="" center="" !important;="" &quot;=""> 
+           <div class="wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp wpb_column vc_column_container vc_col-sm-6"> 
+            <div class="vc_column-inner "> 
+             <div class="wpb_wrapper"> 
+              <div class="wpb_single_image wpb_content_element vc_align_right"> 
+               <figure class="wpb_wrapper vc_figure"> 
+                <div class="vc_single_image-wrapper   vc_box_border_grey">
+                 <img width="320" height="320" src="https://www.bidoo.network/wp-content/uploads/2021/03/PNG-320x320px.png" class="vc_single_image-img attachment-full" alt="" loading="lazy" srcset="https://www.bidoo.network/wp-content/uploads/2021/03/PNG-320x320px.png 320w, https://www.bidoo.network/wp-content/uploads/2021/03/PNG-320x320px-300x300.png 300w, https://www.bidoo.network/wp-content/uploads/2021/03/PNG-320x320px-150x150.png 150w, https://www.bidoo.network/wp-content/uploads/2021/03/PNG-320x320px-50x50.png 50w" sizes="(max-width: 320px) 100vw, 320px">
+                </div> 
+               </figure> 
+              </div> 
+              <div class="stm-spacing" id="stm-spacing-605ef80ed9e42" style="height: 30px;"></div> 
+              <script>
+	(function($){
+		"use strict";
+		var spacingID = 'stm-spacing-605ef80ed9e42',
+			  lgSpacing = '0',
+			  mdSpacing = '0',
+			  smSpacing = '30',
+			  xsSpacing = '30';
+
+		function stmSpacing() {
+			if ( window.matchMedia("(min-width: 1200px)").matches && lgSpacing ) {
+				$( '#' + spacingID ).css ( "height", lgSpacing );
+			} else if ( window.matchMedia("(max-width: 1199px) and (min-width: 992px )").matches && mdSpacing ) {
+				$( '#' + spacingID ).css ( "height", mdSpacing );
+			} else if ( window.matchMedia("(max-width: 991px) and (min-width: 768px )").matches && smSpacing ) {
+				$( '#' + spacingID ).css ( "height", smSpacing );
+			} else if ( window.matchMedia("(max-width: 767px)").matches && xsSpacing ) {
+				$( '#' + spacingID ).css ( "height", xsSpacing );
+			} else {
+				$( '#' + spacingID ).css ( "height", "" );
+			}
+		}
+
+		$(document).ready(function() {
+			stmSpacing();
+		});
+
+		$(window).resize(function() {
+			stmSpacing();
+		});
+
+	})(jQuery);
+</script> 
+             </div> 
+            </div> 
+           </div> 
+           <div class="wpb_column vc_column_container vc_col-sm-6"> 
+            <div class="vc_column-inner "> 
+             <div class="wpb_wrapper"> 
+              <div class="wpb_text_column wpb_content_element "> 
+               <div class="wpb_wrapper"> 
+                <div class="reset-3c756112--listItemContent-756c9114" data-key="28d30db1fbee4038aab552fdd4b0e0c0"> 
+                 <h3 class="blockParagraph-544a408c--noMargin-acdf7afa" data-key="bba84b10434e4d73b36c92fc17ed26e3"><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="6bbd2a794fd94a33adacbf9c4cf977be">Token Name: <strong>BiDoo Network</strong></span></span></h3> 
+                 <ul> 
+                  <li class="blockParagraph-544a408c--noMargin-acdf7afa" data-key="bba84b10434e4d73b36c92fc17ed26e3">Symbol: <strong>BIDOO</strong></li> 
+                  <li class="blockParagraph-544a408c--noMargin-acdf7afa" data-key="bba84b10434e4d73b36c92fc17ed26e3"><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="8bc9f3cc87ae4fd0b995b80d550810fc">Built on Binance Smart Chain</span></span></li> 
+                  <li class="blockParagraph-544a408c--noMargin-acdf7afa" data-key="bba84b10434e4d73b36c92fc17ed26e3">Spec: BEP-20</li> 
+                  <li class="blockParagraph-544a408c--noMargin-acdf7afa" data-key="bba84b10434e4d73b36c92fc17ed26e3">Decimals:18</li> 
+                  <li class="blockParagraph-544a408c--noMargin-acdf7afa" data-key="bba84b10434e4d73b36c92fc17ed26e3"><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="ab4b0fa78f3e4534a8bdc4a7df1ac14b">Smart Contract Address:<a class="link-a079aa82--primary-53a25e66--link-faf6c434" href="https://www.bscscan.com/token/0x9ec649600649eebaafef45cc7f2168894b881110" target="_blank" rel="noopener noreferrer" data-key="dbd005843a2f4baebf286f1eb666f705">0x9ec649600649eebaafef45cc7f2168894b881110</a></span></span></li> 
+                  <li data-key="bba84b10434e4d73b36c92fc17ed26e3"><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJsaXN0LXVub3JkZXJlZCUyMiUyQyUyMmlzVm9pZCUyMiUzQWZhbHNlJTJDJTIyZGF0YSUyMiUzQSU3QiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIyYmxvY2slMjIlMkMlMjJ0eXBlJTIyJTNBJTIybGlzdC1pdGVtJTIyJTJDJTIyaXNWb2lkJTIyJTNBZmFsc2UlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMk1heCUyMFN1cHBseSUzQSUyMDI3JTJDMDAwJTJDMDAwJTIwQklET08lMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCU1RCU3RCU1RCU3RCU1RCU3RCU1RCU3RA==">Max Supply: 27,000,000 BIDOO</span></li> 
+                 </ul> 
+                </div> 
+                <div class="reset-3c756112--listItemContent-756c9114" data-key="edbda2ff6f12456ba3d02f44a4118079"></div> 
+               </div> 
+              </div> 
+              <style type="text/css">
+        .vc_btn3-605ef80eda3ad:hover {
+            background-color:  !important;
+        }
+    </style> 
+              <div class="vc_btn3-container  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_btn3-inline vc_custom_1615895350782" style="animation-delay:.6s"> 
+               <a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-round vc_btn3-style-outline vc_btn3-605ef80eda3ad vc_btn3-color-white" href="#" title="" target="_blank">IDO BUY TOKEN</a>
+              </div> 
+              <div class="vc_row wpb_row vc_inner vc_row-fluid">
+               <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-4 vc_col-md-4 vc_col-xs-6">
+                <div class="vc_column-inner">
+                 <div class="wpb_wrapper">
+                  <div class="stm-spacing" id="stm-spacing-605ef80eda731" style="height: 20px;"></div> 
+                  <script>
+	(function($){
+		"use strict";
+		var spacingID = 'stm-spacing-605ef80eda731',
+			  lgSpacing = '0',
+			  mdSpacing = '0',
+			  smSpacing = '20',
+			  xsSpacing = '20';
+
+		function stmSpacing() {
+			if ( window.matchMedia("(min-width: 1200px)").matches && lgSpacing ) {
+				$( '#' + spacingID ).css ( "height", lgSpacing );
+			} else if ( window.matchMedia("(max-width: 1199px) and (min-width: 992px )").matches && mdSpacing ) {
+				$( '#' + spacingID ).css ( "height", mdSpacing );
+			} else if ( window.matchMedia("(max-width: 991px) and (min-width: 768px )").matches && smSpacing ) {
+				$( '#' + spacingID ).css ( "height", smSpacing );
+			} else if ( window.matchMedia("(max-width: 767px)").matches && xsSpacing ) {
+				$( '#' + spacingID ).css ( "height", xsSpacing );
+			} else {
+				$( '#' + spacingID ).css ( "height", "" );
+			}
+		}
+
+		$(document).ready(function() {
+			stmSpacing();
+		});
+
+		$(window).resize(function() {
+			stmSpacing();
+		});
+
+	})(jQuery);
+</script> 
+                 </div>
+                </div>
+               </div>
+               <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-4 vc_col-md-4 vc_col-xs-6">
+                <div class="vc_column-inner">
+                 <div class="wpb_wrapper">
+                  <div class="stm-spacing" id="stm-spacing-605ef80eda8f8" style="height: 20px;"></div> 
+                  <script>
+	(function($){
+		"use strict";
+		var spacingID = 'stm-spacing-605ef80eda8f8',
+			  lgSpacing = '0',
+			  mdSpacing = '0',
+			  smSpacing = '20',
+			  xsSpacing = '20';
+
+		function stmSpacing() {
+			if ( window.matchMedia("(min-width: 1200px)").matches && lgSpacing ) {
+				$( '#' + spacingID ).css ( "height", lgSpacing );
+			} else if ( window.matchMedia("(max-width: 1199px) and (min-width: 992px )").matches && mdSpacing ) {
+				$( '#' + spacingID ).css ( "height", mdSpacing );
+			} else if ( window.matchMedia("(max-width: 991px) and (min-width: 768px )").matches && smSpacing ) {
+				$( '#' + spacingID ).css ( "height", smSpacing );
+			} else if ( window.matchMedia("(max-width: 767px)").matches && xsSpacing ) {
+				$( '#' + spacingID ).css ( "height", xsSpacing );
+			} else {
+				$( '#' + spacingID ).css ( "height", "" );
+			}
+		}
+
+		$(document).ready(function() {
+			stmSpacing();
+		});
+
+		$(window).resize(function() {
+			stmSpacing();
+		});
+
+	})(jQuery);
+</script> 
+                 </div>
+                </div>
+               </div>
+               <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-4 vc_col-md-4 vc_col-xs-6">
+                <div class="vc_column-inner">
+                 <div class="wpb_wrapper"></div>
+                </div>
+               </div>
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="vc_row-full-width vc_clearfix"></div> 
+          <div id="how_it_works" data-vc-full-width="true" data-vc-full-width-init="true" class="vc_row wpb_row vc_row-fluid" style="position: relative; left: 0px; box-sizing: border-box; width: 424px; padding-left: 0px; padding-right: 0.005px;"> 
+           <div class="wpb_column vc_column_container vc_col-sm-12"> 
+            <div class="vc_column-inner "> 
+             <div class="wpb_wrapper"> 
+              <div class="stm-spacing" id="stm-spacing-605ef80edaf94" style="height: 40px;"></div> 
+              <script>
+	(function($){
+		"use strict";
+		var spacingID = 'stm-spacing-605ef80edaf94',
+			  lgSpacing = '70',
+			  mdSpacing = '70',
+			  smSpacing = '50',
+			  xsSpacing = '40';
+
+		function stmSpacing() {
+			if ( window.matchMedia("(min-width: 1200px)").matches && lgSpacing ) {
+				$( '#' + spacingID ).css ( "height", lgSpacing );
+			} else if ( window.matchMedia("(max-width: 1199px) and (min-width: 992px )").matches && mdSpacing ) {
+				$( '#' + spacingID ).css ( "height", mdSpacing );
+			} else if ( window.matchMedia("(max-width: 991px) and (min-width: 768px )").matches && smSpacing ) {
+				$( '#' + spacingID ).css ( "height", smSpacing );
+			} else if ( window.matchMedia("(max-width: 767px)").matches && xsSpacing ) {
+				$( '#' + spacingID ).css ( "height", xsSpacing );
+			} else {
+				$( '#' + spacingID ).css ( "height", "" );
+			}
+		}
+
+		$(document).ready(function() {
+			stmSpacing();
+		});
+
+		$(window).resize(function() {
+			stmSpacing();
+		});
+
+	})(jQuery);
+</script> 
+              <div class="vc_custom_heading text_align_center stripe_bottom">
+               <h2 style="font-size: 42px;line-height: 48px;text-align: center">The first Strong Holder Offering (“SHO”) event</h2>
+              </div>
+              <div class="stm-spacing" id="stm-spacing-605ef80edb23d" style="height: 60px;"></div> 
+              <script>
+	(function($){
+		"use strict";
+		var spacingID = 'stm-spacing-605ef80edb23d',
+			  lgSpacing = '30',
+			  mdSpacing = '20',
+			  smSpacing = '60',
+			  xsSpacing = '60';
+
+		function stmSpacing() {
+			if ( window.matchMedia("(min-width: 1200px)").matches && lgSpacing ) {
+				$( '#' + spacingID ).css ( "height", lgSpacing );
+			} else if ( window.matchMedia("(max-width: 1199px) and (min-width: 992px )").matches && mdSpacing ) {
+				$( '#' + spacingID ).css ( "height", mdSpacing );
+			} else if ( window.matchMedia("(max-width: 991px) and (min-width: 768px )").matches && smSpacing ) {
+				$( '#' + spacingID ).css ( "height", smSpacing );
+			} else if ( window.matchMedia("(max-width: 767px)").matches && xsSpacing ) {
+				$( '#' + spacingID ).css ( "height", xsSpacing );
+			} else {
+				$( '#' + spacingID ).css ( "height", "" );
+			}
+		}
+
+		$(document).ready(function() {
+			stmSpacing();
+		});
+
+		$(window).resize(function() {
+			stmSpacing();
+		});
+
+	})(jQuery);
+</script> 
+              <div class="vc_row wpb_row vc_inner vc_row-fluid">
+               <div class="wpb_column vc_column_container vc_col-sm-6">
+                <div class="vc_column-inner">
+                 <div class="wpb_wrapper">
+                  <div class="stm-spacing" id="stm-spacing-605ef80edb5e7" style="height: 30px;"></div> 
+                  <script>
+	(function($){
+		"use strict";
+		var spacingID = 'stm-spacing-605ef80edb5e7',
+			  lgSpacing = '40',
+			  mdSpacing = '40',
+			  smSpacing = '30',
+			  xsSpacing = '30';
+
+		function stmSpacing() {
+			if ( window.matchMedia("(min-width: 1200px)").matches && lgSpacing ) {
+				$( '#' + spacingID ).css ( "height", lgSpacing );
+			} else if ( window.matchMedia("(max-width: 1199px) and (min-width: 992px )").matches && mdSpacing ) {
+				$( '#' + spacingID ).css ( "height", mdSpacing );
+			} else if ( window.matchMedia("(max-width: 991px) and (min-width: 768px )").matches && smSpacing ) {
+				$( '#' + spacingID ).css ( "height", smSpacing );
+			} else if ( window.matchMedia("(max-width: 767px)").matches && xsSpacing ) {
+				$( '#' + spacingID ).css ( "height", xsSpacing );
+			} else {
+				$( '#' + spacingID ).css ( "height", "" );
+			}
+		}
+
+		$(document).ready(function() {
+			stmSpacing();
+		});
+
+		$(window).resize(function() {
+			stmSpacing();
+		});
+
+	})(jQuery);
+</script> 
+                  <div class="wpb_text_column wpb_content_element "> 
+                   <div class="wpb_wrapper"> 
+                    <p>The first Strong Holder Offering (“SHO”) event will be organized with the aim to issue “iCover100” to BIDOO holders. Please be noted that “iCover100” is just temporary term, the Dev Team shall announce the official token name soon. This is an impairment loss insurance system for DeFi Farmers. There are only 810 “iCover100” token in the event and the farmer shall receive 01 “iCover100” for every 10,000 BIDOO tokens held by their wallet.</p> 
+                    <ul> 
+                     <li>Holding 10,000 BIDOO to get 01 ‘”iCover100”.</li> 
+                     <li>Minimum price for each “iCover100” is at 100 USD.</li> 
+                     <li>There are only 810 “iCover100” token.</li> 
+                     <li>Liquidity for “iCover100” shall be added onto PancakeSwap after the SHO event ended.</li> 
+                    </ul> 
+                   </div> 
+                  </div> 
+                 </div>
+                </div>
+               </div>
+               <div class="wpb_column vc_column_container vc_col-sm-6">
+                <div class="vc_column-inner">
+                 <div class="wpb_wrapper">
+                  <div class="stm-spacing" id="stm-spacing-605ef80edb8b6" style="height: 40px;"></div> 
+                  <script>
+	(function($){
+		"use strict";
+		var spacingID = 'stm-spacing-605ef80edb8b6',
+			  lgSpacing = '0',
+			  mdSpacing = '0',
+			  smSpacing = '40',
+			  xsSpacing = '40';
+
+		function stmSpacing() {
+			if ( window.matchMedia("(min-width: 1200px)").matches && lgSpacing ) {
+				$( '#' + spacingID ).css ( "height", lgSpacing );
+			} else if ( window.matchMedia("(max-width: 1199px) and (min-width: 992px )").matches && mdSpacing ) {
+				$( '#' + spacingID ).css ( "height", mdSpacing );
+			} else if ( window.matchMedia("(max-width: 991px) and (min-width: 768px )").matches && smSpacing ) {
+				$( '#' + spacingID ).css ( "height", smSpacing );
+			} else if ( window.matchMedia("(max-width: 767px)").matches && xsSpacing ) {
+				$( '#' + spacingID ).css ( "height", xsSpacing );
+			} else {
+				$( '#' + spacingID ).css ( "height", "" );
+			}
+		}
+
+		$(document).ready(function() {
+			stmSpacing();
+		});
+
+		$(window).resize(function() {
+			stmSpacing();
+		});
+
+	})(jQuery);
+</script> 
+                  <div class="wpb_single_image wpb_content_element vc_align_center  wpb_animate_when_almost_visible wpb_fadeInRight fadeInRight"> 
+                   <figure class="wpb_wrapper vc_figure"> 
+                    <div class="vc_single_image-wrapper   vc_box_border_grey">
+                     <img width="511" height="456" src="https://www.bidoo.network/wp-content/uploads/2018/08/graph_07.png" class="vc_single_image-img attachment-full" alt="" loading="lazy" srcset="https://www.bidoo.network/wp-content/uploads/2018/08/graph_07.png 511w, https://www.bidoo.network/wp-content/uploads/2018/08/graph_07-300x268.png 300w" sizes="(max-width: 511px) 100vw, 511px">
+                    </div> 
+                   </figure> 
+                  </div> 
+                 </div>
+                </div>
+               </div>
+              </div>
+              <div class="stm-spacing" id="stm-spacing-605ef80edbecd" style="height: 40px;"></div> 
+              <script>
+	(function($){
+		"use strict";
+		var spacingID = 'stm-spacing-605ef80edbecd',
+			  lgSpacing = '66',
+			  mdSpacing = '50',
+			  smSpacing = '50',
+			  xsSpacing = '40';
+
+		function stmSpacing() {
+			if ( window.matchMedia("(min-width: 1200px)").matches && lgSpacing ) {
+				$( '#' + spacingID ).css ( "height", lgSpacing );
+			} else if ( window.matchMedia("(max-width: 1199px) and (min-width: 992px )").matches && mdSpacing ) {
+				$( '#' + spacingID ).css ( "height", mdSpacing );
+			} else if ( window.matchMedia("(max-width: 991px) and (min-width: 768px )").matches && smSpacing ) {
+				$( '#' + spacingID ).css ( "height", smSpacing );
+			} else if ( window.matchMedia("(max-width: 767px)").matches && xsSpacing ) {
+				$( '#' + spacingID ).css ( "height", xsSpacing );
+			} else {
+				$( '#' + spacingID ).css ( "height", "" );
+			}
+		}
+
+		$(document).ready(function() {
+			stmSpacing();
+		});
+
+		$(window).resize(function() {
+			stmSpacing();
+		});
+
+	})(jQuery);
+</script> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="vc_row-full-width vc_clearfix"></div> 
+          <div id="token" data-vc-full-width="true" data-vc-full-width-init="true" class="vc_row wpb_row vc_row-fluid vc_custom_1533806261321 vc_row-has-fill" style="position: relative; left: 0px; box-sizing: border-box; width: 424px; padding-left: 0px; padding-right: 0.005px;" top="" right="" !important;="" &quot;=""> 
+           <div class="wpb_column vc_column_container vc_col-sm-12"> 
+            <div class="vc_column-inner "> 
+             <div class="wpb_wrapper"> 
+              <div class="vc_custom_heading text_align_center stripe_bottom">
+               <h2 style="font-size: 42px;line-height: 48px;text-align: center">Roadmap</h2>
+              </div> 
+              <div class="stm_timeline-wrap wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp" style="animation-duration: 1s !important;"> 
+               <div class="timeline-item"> 
+                <div class="timeline-date past"> 
+                 <span class="timeline_month">Quarter 1 Year 2021</span> 
+                 <span class="timeline_year">Platform Idea</span> 
+                </div> 
+                <div class="timeline_content">
+                 Idea Preparation and Team Building, Outline Design. Smart Contract Development.
+                </div> 
+               </div> 
+               <div class="timeline-item"> 
+                <div class="timeline-date past"> 
+                 <span class="timeline_month">Quarter 2 Year 2021</span> 
+                 <span class="timeline_year">Project Announcement </span> 
+                </div> 
+                <div class="timeline_content">
+                 Website Launch 
+                </div> 
+               </div> 
+               <div class="timeline-item"> 
+                <div class="timeline-date past"> 
+                 <span class="timeline_month"></span> 
+                 <span class="timeline_year"></span> 
+                </div> 
+                <div class="timeline_content">
+                 Deploying The Smart Contracts Token Bidoo
+                </div> 
+               </div> 
+               <div class="timeline-item"> 
+                <div class="timeline-date upcoming"> 
+                 <span class="timeline_month"></span> 
+                 <span class="timeline_year"></span> 
+                </div> 
+                <div class="timeline_content">
+                 Listing on CoinGecko and CoinMarketCap (on progress)
+                </div> 
+               </div> 
+               <div class="timeline-item"> 
+                <div class="timeline-date upcoming"> 
+                 <span class="timeline_month"></span> 
+                 <span class="timeline_year"></span> 
+                </div> 
+                <div class="timeline_content">
+                 Submitted token logo on Trust Wallet and PancakeSwap
+                </div> 
+               </div> 
+               <div class="timeline-item"> 
+                <div class="timeline-date upcoming"> 
+                 <span class="timeline_month"></span> 
+                 <span class="timeline_year">Private sale</span> 
+                </div> 
+                <div class="timeline_content">
+                 Rounds of Funding. Private sale: Initial mcap of 1M BIDOO, fully diluted mcap of 80k USD.
+                </div> 
+               </div> 
+               <div class="timeline-item"> 
+                <div class="timeline-date upcoming"> 
+                 <span class="timeline_month"></span> 
+                 <span class="timeline_year">Public sale</span> 
+                </div> 
+                <div class="timeline_content">
+                 Initial mcap of 5.4M BIDOO, fully diluted mcap of 540k USD.
+                </div> 
+               </div> 
+               <div class="timeline-item"> 
+                <div class="timeline-date upcoming"> 
+                 <span class="timeline_month"></span> 
+                 <span class="timeline_year">Initial PankeSwap Liquidity</span> 
+                </div> 
+                <div class="timeline_content">
+                 Initial PankeSwap Liquidity: 540k BIDOO
+                </div> 
+               </div> 
+               <div class="timeline-item"> 
+                <div class="timeline-date upcoming"> 
+                 <span class="timeline_month"></span> 
+                 <span class="timeline_year">Audits</span> 
+                </div> 
+                <div class="timeline_content">
+                 Audits of the Smart Contracts by CertiK. CertiK Chain, a security-first, delegated proof-of-stake blockchain, for trustworthy execution of mission-critical applications, including DeFi, NFTs, and autonomous vehicles. 
+                </div> 
+               </div> 
+               <div class="timeline-item"> 
+                <div class="timeline-date upcoming"> 
+                 <span class="timeline_month">Quarter 3 Year 2021</span> 
+                 <span class="timeline_year">The first Strong Holder Offering (“SHO”) event </span> 
+                </div> 
+                <div class="timeline_content">
+                 There are only 810 iCover100 token in the event and the farmer shall receive 01 iCover100 for every 10,000 BIDOO tokens held by their wallet. Holding 10,000 BIDOO to get 01 ‘”iCover100”. Minimum price for each iCover is at 100 USD. Liquidity for “iCover100” shall be added onto PancakeSwap after the SHO event ended. 
+                </div> 
+               </div> 
+               <div class="timeline-item"> 
+                <div class="timeline-date upcoming"> 
+                 <span class="timeline_month"></span> 
+                 <span class="timeline_year">Referral Programs</span> 
+                </div> 
+                <div class="timeline_content">
+                 To run Referral Programs and to develop marketing strategies to increase referrals in Singapore, Japan, Korea, etc
+                </div> 
+               </div> 
+               <div class="timeline-item"> 
+                <div class="timeline-date upcoming"> 
+                 <span class="timeline_month"></span> 
+                 <span class="timeline_year">KOLs Programs</span> 
+                </div> 
+                <div class="timeline_content">
+                 To working with KOLs on Twitter, Youtube, Facebook Group to promote BiDoo Network
+                </div> 
+               </div> 
+               <div class="timeline-item"> 
+                <div class="timeline-date upcoming"> 
+                 <span class="timeline_month"></span> 
+                 <span class="timeline_year">The first “IFO" event </span> 
+                </div> 
+                <div class="timeline_content">
+                 “Paper Cranes” project as the first Initial Fork Offering.
+                </div> 
+               </div> 
+               <div class="timeline-item"> 
+                <div class="timeline-date upcoming"> 
+                 <span class="timeline_month">Quarter 4 Year 2021</span> 
+                 <span class="timeline_year">Bi-NFT Public Testnet</span> 
+                </div> 
+                <div class="timeline_content">
+                 Bi-NFT Public Testnet
+                </div> 
+               </div> 
+              </div> 
+              <div class="stm-spacing" id="stm-spacing-605ef80edc910" style="height: 60px;"></div> 
+              <script>
+	(function($){
+		"use strict";
+		var spacingID = 'stm-spacing-605ef80edc910',
+			  lgSpacing = '145',
+			  mdSpacing = '100',
+			  smSpacing = '80',
+			  xsSpacing = '60';
+
+		function stmSpacing() {
+			if ( window.matchMedia("(min-width: 1200px)").matches && lgSpacing ) {
+				$( '#' + spacingID ).css ( "height", lgSpacing );
+			} else if ( window.matchMedia("(max-width: 1199px) and (min-width: 992px )").matches && mdSpacing ) {
+				$( '#' + spacingID ).css ( "height", mdSpacing );
+			} else if ( window.matchMedia("(max-width: 991px) and (min-width: 768px )").matches && smSpacing ) {
+				$( '#' + spacingID ).css ( "height", smSpacing );
+			} else if ( window.matchMedia("(max-width: 767px)").matches && xsSpacing ) {
+				$( '#' + spacingID ).css ( "height", xsSpacing );
+			} else {
+				$( '#' + spacingID ).css ( "height", "" );
+			}
+		}
+
+		$(document).ready(function() {
+			stmSpacing();
+		});
+
+		$(window).resize(function() {
+			stmSpacing();
+		});
+
+	})(jQuery);
+</script> 
+              <div class="stm-spacing" id="stm-spacing-605ef80edc99d" style="height: 40px;"></div> 
+              <script>
+	(function($){
+		"use strict";
+		var spacingID = 'stm-spacing-605ef80edc99d',
+			  lgSpacing = '68',
+			  mdSpacing = '40',
+			  smSpacing = '40',
+			  xsSpacing = '40';
+
+		function stmSpacing() {
+			if ( window.matchMedia("(min-width: 1200px)").matches && lgSpacing ) {
+				$( '#' + spacingID ).css ( "height", lgSpacing );
+			} else if ( window.matchMedia("(max-width: 1199px) and (min-width: 992px )").matches && mdSpacing ) {
+				$( '#' + spacingID ).css ( "height", mdSpacing );
+			} else if ( window.matchMedia("(max-width: 991px) and (min-width: 768px )").matches && smSpacing ) {
+				$( '#' + spacingID ).css ( "height", smSpacing );
+			} else if ( window.matchMedia("(max-width: 767px)").matches && xsSpacing ) {
+				$( '#' + spacingID ).css ( "height", xsSpacing );
+			} else {
+				$( '#' + spacingID ).css ( "height", "" );
+			}
+		}
+
+		$(document).ready(function() {
+			stmSpacing();
+		});
+
+		$(window).resize(function() {
+			stmSpacing();
+		});
+
+	})(jQuery);
+</script> 
+              <div class="vc_row wpb_row vc_inner vc_row-fluid">
+               <div class="wpb_column vc_column_container vc_col-sm-3">
+                <div class="vc_column-inner">
+                 <div class="wpb_wrapper"></div>
+                </div>
+               </div>
+               <div class="wpb_column vc_column_container vc_col-sm-6">
+                <div class="vc_column-inner">
+                 <div class="wpb_wrapper">
+                  <div class="vc_custom_heading text_align_center stripe_bottom">
+                   <h2 style="font-size: 42px;line-height: 48px;text-align: center">Token Distribution</h2>
+                  </div>
+                 </div>
+                </div>
+               </div>
+               <div class="wpb_column vc_column_container vc_col-sm-3">
+                <div class="vc_column-inner">
+                 <div class="wpb_wrapper"></div>
+                </div>
+               </div>
+              </div>
+              <div class="stm-spacing" id="stm-spacing-605ef80edd12f" style="height: 40px;"></div> 
+              <script>
+	(function($){
+		"use strict";
+		var spacingID = 'stm-spacing-605ef80edd12f',
+			  lgSpacing = '61',
+			  mdSpacing = '40',
+			  smSpacing = '40',
+			  xsSpacing = '40';
+
+		function stmSpacing() {
+			if ( window.matchMedia("(min-width: 1200px)").matches && lgSpacing ) {
+				$( '#' + spacingID ).css ( "height", lgSpacing );
+			} else if ( window.matchMedia("(max-width: 1199px) and (min-width: 992px )").matches && mdSpacing ) {
+				$( '#' + spacingID ).css ( "height", mdSpacing );
+			} else if ( window.matchMedia("(max-width: 991px) and (min-width: 768px )").matches && smSpacing ) {
+				$( '#' + spacingID ).css ( "height", smSpacing );
+			} else if ( window.matchMedia("(max-width: 767px)").matches && xsSpacing ) {
+				$( '#' + spacingID ).css ( "height", xsSpacing );
+			} else {
+				$( '#' + spacingID ).css ( "height", "" );
+			}
+		}
+
+		$(document).ready(function() {
+			stmSpacing();
+		});
+
+		$(window).resize(function() {
+			stmSpacing();
+		});
+
+	})(jQuery);
+</script> 
+              <div class="vc_row wpb_row vc_inner vc_row-fluid">
+               <div class="wpb_column vc_column_container vc_col-sm-12">
+                <div class="vc_column-inner">
+                 <div class="wpb_wrapper"> 
+                  <div class="stm_token_structure"> 
+                   <div class="stm_token" style="width: 6% "> 
+                    <div class="stm_token__bar" style="background-color:#ffd5cd">
+                      2% 
+                    </div> 
+                    <div class="stm_token__label">
+                     Provide Liquidity on Pancake
+                    </div> 
+                   </div> 
+                   <div class="stm_token" style="width: 40% "> 
+                    <div class="stm_token__bar" style="background-color:#efbbcf">
+                      40% 
+                    </div> 
+                    <div class="stm_token__label">
+                     Mining
+                    </div> 
+                   </div> 
+                   <div class="stm_token" style="width: 6% "> 
+                    <div class="stm_token__bar" style="background-color:#c3aed6">
+                      5% 
+                    </div> 
+                    <div class="stm_token__label">
+                     Team
+                    </div> 
+                   </div> 
+                   <div class="stm_token" style="width: 10% "> 
+                    <div class="stm_token__bar" style="background-color:#726a95">
+                      10% 
+                    </div> 
+                    <div class="stm_token__label">
+                     «Referral»
+                    </div> 
+                   </div> 
+                   <div class="stm_token" style="width: 10% "> 
+                    <div class="stm_token__bar" style="background-color:#709fb0">
+                      10% 
+                    </div> 
+                    <div class="stm_token__label">
+                     «Marketing»
+                    </div> 
+                   </div> 
+                   <div class="stm_token" style="width: 6% "> 
+                    <div class="stm_token__bar" style="background-color:#a0c1b8">
+                      3% 
+                    </div> 
+                    <div class="stm_token__label">
+                     Sale For Friends
+                    </div> 
+                   </div> 
+                   <div class="stm_token" style="width: 30% "> 
+                    <div class="stm_token__bar" style="background-color:#dd6c6c">
+                      30% 
+                    </div> 
+                    <div class="stm_token__label">
+                     Investors
+                    </div> 
+                   </div> 
+                  </div> 
+                 </div>
+                </div>
+               </div>
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="vc_row-full-width vc_clearfix"></div> 
+          <div class="vc_row wpb_row vc_row-fluid" style="&quot;&quot;"> 
+           <div class="wpb_column vc_column_container vc_col-sm-8"> 
+            <div class="vc_column-inner "> 
+             <div class="wpb_wrapper"> 
+              <div class="stm-spacing" id="stm-spacing-605ef80eddcc5" style="height: 0px;"></div> 
+              <script>
+	(function($){
+		"use strict";
+		var spacingID = 'stm-spacing-605ef80eddcc5',
+			  lgSpacing = '12',
+			  mdSpacing = '10',
+			  smSpacing = '10',
+			  xsSpacing = '0';
+
+		function stmSpacing() {
+			if ( window.matchMedia("(min-width: 1200px)").matches && lgSpacing ) {
+				$( '#' + spacingID ).css ( "height", lgSpacing );
+			} else if ( window.matchMedia("(max-width: 1199px) and (min-width: 992px )").matches && mdSpacing ) {
+				$( '#' + spacingID ).css ( "height", mdSpacing );
+			} else if ( window.matchMedia("(max-width: 991px) and (min-width: 768px )").matches && smSpacing ) {
+				$( '#' + spacingID ).css ( "height", smSpacing );
+			} else if ( window.matchMedia("(max-width: 767px)").matches && xsSpacing ) {
+				$( '#' + spacingID ).css ( "height", xsSpacing );
+			} else {
+				$( '#' + spacingID ).css ( "height", "" );
+			}
+		}
+
+		$(document).ready(function() {
+			stmSpacing();
+		});
+
+		$(window).resize(function() {
+			stmSpacing();
+		});
+
+	})(jQuery);
+</script> 
+              <div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1533810611731 vc_row-has-fill">
+               <div class="wpb_column vc_column_container vc_col-sm-6">
+                <div class="vc_column-inner">
+                 <div class="wpb_wrapper"> 
+                  <div class="wpb_text_column wpb_content_element "> 
+                   <div class="wpb_wrapper"> 
+                    <h6 style="font-size: 18px !important;">IDO PULIC SALE</h6> 
+                    <h6 style="font-size: 18px !important;"><span style="opacity: .75; font-size: 14px;">28th of March 2021 / 7PM UTC to</span><br> <span style="opacity: .75; font-size: 14px;">18th of April 2021 / 9PM UTC</span></h6> 
+                   </div> 
+                  </div> 
+                 </div>
+                </div>
+               </div>
+               <div class="wpb_column vc_column_container vc_col-sm-6">
+                <div class="vc_column-inner">
+                 <div class="wpb_wrapper"> 
+                  <div class="wpb_text_column wpb_content_element "> 
+                   <div class="wpb_wrapper"> 
+                    <h6 style="font-size: 18px !important;">Token Sale</h6> 
+                    <p><span style="opacity: .75; font-size: 14px;">6th of May 2018 / 5PM UTC to </span><br> <span style="opacity: .75; font-size: 14px;">5th of August 2018 / 5PM UTC</span></p> 
+                   </div> 
+                  </div> 
+                 </div>
+                </div>
+               </div>
+              </div>
+              <div class="vc_row wpb_row vc_inner vc_row-fluid">
+               <div class="wpb_column vc_column_container vc_col-sm-6">
+                <div class="vc_column-inner">
+                 <div class="wpb_wrapper"> 
+                  <div class="wpb_text_column wpb_content_element "> 
+                   <div class="wpb_wrapper"> 
+                    <h6 style="font-size: 18px !important;">Supply</h6> 
+                    <p><span style="opacity: .75; font-size: 14px;">27.000.000</span></p> 
+                    <h6 style="font-size: 18px !important;">Price</h6> 
+                    <p><span style="opacity: .75; font-size: 14px;">1 BIDOO = 0.10 USD</span></p> 
+                    <h6 style="font-size: 18px !important;">Maximum Goal</h6> 
+                    <p><span style="opacity: .75; font-size: 14px;">Hard cap: $810,000</span><br> <span style="opacity: .75; font-size: 14px;">Soft cap: $100,000</span></p> 
+                   </div> 
+                  </div> 
+                 </div>
+                </div>
+               </div>
+               <div class="wpb_column vc_column_container vc_col-sm-6">
+                <div class="vc_column-inner">
+                 <div class="wpb_wrapper"> 
+                  <div class="wpb_text_column wpb_content_element "> 
+                   <div class="wpb_wrapper"> 
+                    <h6 style="font-size: 18px !important;">Accepted Currencies</h6> 
+                    <p><span style="opacity: .75; font-size: 14px;">BNB, BUSD&nbsp;</span></p> 
+                    <h6 style="font-size: 18px !important;">Token Distribution Date</h6> 
+                    <p><span style="opacity: .75; font-size: 14px;">22th of March 2021</span></p> 
+                    <h6 style="font-size: 18px !important;">Emission Rate</h6> 
+                    <p><span style="opacity: .75; font-size: 14px;">No new tokens will be created</span></p> 
+                   </div> 
+                  </div> 
+                 </div>
+                </div>
+               </div>
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+           <div class="wpb_column vc_column_container vc_col-sm-4"> 
+            <div class="vc_column-inner "> 
+             <div class="wpb_wrapper"> 
+              <div class="icon_box style_4 alignment_left text-left clearfix"> 
+               <div class="icon_box_inner"> 
+                <div class="icon font-color_custom font-color_base_bg">
+                 <i style="font-size:65px; color: #ffffff; line-height: 65px; " class="stm-unicorn"></i>
+                </div> 
+                <h4 style="color:#ffffff">Investors</h4> 
+                <div class="icon_text"> 
+                 <h1><span style="color: #ffffff; font-size: 36px;">2000+</span></h1> 
+                </div> 
+               </div> 
+              </div> 
+              <div class="icon_box style_4 alignment_left text-left clearfix"> 
+               <div class="icon_box_inner"> 
+                <div class="icon font-color_custom font-color_base_bg">
+                 <i style="font-size:65px; color: #ffffff; line-height: 65px; " class="stm-unicorn"></i>
+                </div> 
+                <h4 style="color:#ffffff">Amount raised</h4> 
+                <div class="icon_text"> 
+                 <h1><span style="color: #ffffff; font-size: 36px;">300,000+</span></h1> 
+                </div> 
+               </div> 
+              </div> 
+              <div class="stm-spacing" id="stm-spacing-605ef80edf0a8" style="height: 30px;"></div> 
+              <script>
+	(function($){
+		"use strict";
+		var spacingID = 'stm-spacing-605ef80edf0a8',
+			  lgSpacing = '68',
+			  mdSpacing = '60',
+			  smSpacing = '50',
+			  xsSpacing = '30';
+
+		function stmSpacing() {
+			if ( window.matchMedia("(min-width: 1200px)").matches && lgSpacing ) {
+				$( '#' + spacingID ).css ( "height", lgSpacing );
+			} else if ( window.matchMedia("(max-width: 1199px) and (min-width: 992px )").matches && mdSpacing ) {
+				$( '#' + spacingID ).css ( "height", mdSpacing );
+			} else if ( window.matchMedia("(max-width: 991px) and (min-width: 768px )").matches && smSpacing ) {
+				$( '#' + spacingID ).css ( "height", smSpacing );
+			} else if ( window.matchMedia("(max-width: 767px)").matches && xsSpacing ) {
+				$( '#' + spacingID ).css ( "height", xsSpacing );
+			} else {
+				$( '#' + spacingID ).css ( "height", "" );
+			}
+		}
+
+		$(document).ready(function() {
+			stmSpacing();
+		});
+
+		$(window).resize(function() {
+			stmSpacing();
+		});
+
+	})(jQuery);
+</script> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </section>
+         <div class="vc_row-full-width vc_clearfix"></div> 
+         <div class="vc_row wpb_row vc_row-fluid" style="&quot;&quot;"> 
+          <div class="wpb_column vc_column_container vc_col-sm-12"> 
+           <div class="vc_column-inner "> 
+            <div class="wpb_wrapper"> 
+             <div class="stm-spacing" id="stm-spacing-605ef80edf801" style="height: 40px;"></div> 
+             <script>
+	(function($){
+		"use strict";
+		var spacingID = 'stm-spacing-605ef80edf801',
+			  lgSpacing = '73',
+			  mdSpacing = '70',
+			  smSpacing = '50',
+			  xsSpacing = '40';
+
+		function stmSpacing() {
+			if ( window.matchMedia("(min-width: 1200px)").matches && lgSpacing ) {
+				$( '#' + spacingID ).css ( "height", lgSpacing );
+			} else if ( window.matchMedia("(max-width: 1199px) and (min-width: 992px )").matches && mdSpacing ) {
+				$( '#' + spacingID ).css ( "height", mdSpacing );
+			} else if ( window.matchMedia("(max-width: 991px) and (min-width: 768px )").matches && smSpacing ) {
+				$( '#' + spacingID ).css ( "height", smSpacing );
+			} else if ( window.matchMedia("(max-width: 767px)").matches && xsSpacing ) {
+				$( '#' + spacingID ).css ( "height", xsSpacing );
+			} else {
+				$( '#' + spacingID ).css ( "height", "" );
+			}
+		}
+
+		$(document).ready(function() {
+			stmSpacing();
+		});
+
+		$(window).resize(function() {
+			stmSpacing();
+		});
+
+	})(jQuery);
+</script> 
+             <div class="vc_custom_heading text_align_center stripe_bottom">
+              <h2 style="font-size: 42px;line-height: 48px;text-align: center">Bonus Structure</h2>
+             </div>
+             <div class="stm-spacing" id="stm-spacing-605ef80edfa0d" style="height: 40px;"></div> 
+             <script>
+	(function($){
+		"use strict";
+		var spacingID = 'stm-spacing-605ef80edfa0d',
+			  lgSpacing = '59',
+			  mdSpacing = '40',
+			  smSpacing = '40',
+			  xsSpacing = '40';
+
+		function stmSpacing() {
+			if ( window.matchMedia("(min-width: 1200px)").matches && lgSpacing ) {
+				$( '#' + spacingID ).css ( "height", lgSpacing );
+			} else if ( window.matchMedia("(max-width: 1199px) and (min-width: 992px )").matches && mdSpacing ) {
+				$( '#' + spacingID ).css ( "height", mdSpacing );
+			} else if ( window.matchMedia("(max-width: 991px) and (min-width: 768px )").matches && smSpacing ) {
+				$( '#' + spacingID ).css ( "height", smSpacing );
+			} else if ( window.matchMedia("(max-width: 767px)").matches && xsSpacing ) {
+				$( '#' + spacingID ).css ( "height", xsSpacing );
+			} else {
+				$( '#' + spacingID ).css ( "height", "" );
+			}
+		}
+
+		$(document).ready(function() {
+			stmSpacing();
+		});
+
+		$(window).resize(function() {
+			stmSpacing();
+		});
+
+	})(jQuery);
+</script> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="vc_row wpb_row vc_row-fluid" style="&quot;&quot;"> 
+          <div class="wpb_column vc_column_container vc_col-sm-1"> 
+           <div class="vc_column-inner "> 
+            <div class="wpb_wrapper"> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="wpb_column vc_column_container vc_col-sm-5"> 
+           <div class="vc_column-inner vc_custom_1533895666361"> 
+            <div class="wpb_wrapper"> 
+             <div class="stm_panel_box" id="stm_panel_box605ef80ee0000"> 
+              <div class="stm_panel_box__gradient"></div> 
+              <div class="stm_panel_box__inner"> 
+               <div class="stm_panel_box__top"> 
+                <div class="stm_panel_box__title">
+                 Early Members — Pre ICO
+                </div> 
+               </div> 
+               <div class="stm_panel_box__content"> 
+                <p></p> 
+                <h6>Users registered in the Pre ICO phase</h6> 
+                <ul> 
+                 <li>30% Bonus on any purchase amount</li> 
+                </ul> 
+                <p> </p>
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="wpb_column vc_column_container vc_col-sm-5"> 
+           <div class="vc_column-inner vc_custom_1533895678399"> 
+            <div class="wpb_wrapper"> 
+             <div class="stm_panel_box" id="stm_panel_box605ef80ee0248"> 
+              <div class="stm_panel_box__gradient"></div> 
+              <div class="stm_panel_box__inner"> 
+               <div class="stm_panel_box__top"> 
+                <div class="stm_panel_box__title">
+                 New Members — ICO
+                </div> 
+               </div> 
+               <div class="stm_panel_box__content"> 
+                <p></p> 
+                <h6>Users registered in the ICO phase</h6> 
+                <ul> 
+                 <li>1–11 days: 20% and 11–22 days: 11% Bonus</li> 
+                </ul> 
+                <p> </p>
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="wpb_column vc_column_container vc_col-sm-1"> 
+           <div class="vc_column-inner "> 
+            <div class="wpb_wrapper"> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="vc_row wpb_row vc_row-fluid" style="&quot;&quot;"> 
+          <div class="wpb_column vc_column_container vc_col-sm-12"> 
+           <div class="vc_column-inner "> 
+            <div class="wpb_wrapper"> 
+             <div class="stm-spacing" id="stm-spacing-605ef80ee07e3" style="height: 30px;"></div> 
+             <script>
+	(function($){
+		"use strict";
+		var spacingID = 'stm-spacing-605ef80ee07e3',
+			  lgSpacing = '60',
+			  mdSpacing = '40',
+			  smSpacing = '40',
+			  xsSpacing = '30';
+
+		function stmSpacing() {
+			if ( window.matchMedia("(min-width: 1200px)").matches && lgSpacing ) {
+				$( '#' + spacingID ).css ( "height", lgSpacing );
+			} else if ( window.matchMedia("(max-width: 1199px) and (min-width: 992px )").matches && mdSpacing ) {
+				$( '#' + spacingID ).css ( "height", mdSpacing );
+			} else if ( window.matchMedia("(max-width: 991px) and (min-width: 768px )").matches && smSpacing ) {
+				$( '#' + spacingID ).css ( "height", smSpacing );
+			} else if ( window.matchMedia("(max-width: 767px)").matches && xsSpacing ) {
+				$( '#' + spacingID ).css ( "height", xsSpacing );
+			} else {
+				$( '#' + spacingID ).css ( "height", "" );
+			}
+		}
+
+		$(document).ready(function() {
+			stmSpacing();
+		});
+
+		$(window).resize(function() {
+			stmSpacing();
+		});
+
+	})(jQuery);
+</script> 
+             <div class="wpb_text_column wpb_content_element "> 
+              <div class="wpb_wrapper"> 
+               <p style="text-align: center;"><span style="font-size: 14px; color: #8f89a7;">Unsold tokens from previous rounds will be moved into the next round. </span><br> <span style="font-size: 14px; color: #8f89a7;">The token sale will automatically go to the next round when tokens are sold out in the prior round.</span></p> 
+              </div> 
+             </div> 
+             <div class="stm-spacing" id="stm-spacing-605ef80ee0957" style="height: 30px;"></div> 
+             <script>
+	(function($){
+		"use strict";
+		var spacingID = 'stm-spacing-605ef80ee0957',
+			  lgSpacing = '50',
+			  mdSpacing = '50',
+			  smSpacing = '30',
+			  xsSpacing = '30';
+
+		function stmSpacing() {
+			if ( window.matchMedia("(min-width: 1200px)").matches && lgSpacing ) {
+				$( '#' + spacingID ).css ( "height", lgSpacing );
+			} else if ( window.matchMedia("(max-width: 1199px) and (min-width: 992px )").matches && mdSpacing ) {
+				$( '#' + spacingID ).css ( "height", mdSpacing );
+			} else if ( window.matchMedia("(max-width: 991px) and (min-width: 768px )").matches && smSpacing ) {
+				$( '#' + spacingID ).css ( "height", smSpacing );
+			} else if ( window.matchMedia("(max-width: 767px)").matches && xsSpacing ) {
+				$( '#' + spacingID ).css ( "height", xsSpacing );
+			} else {
+				$( '#' + spacingID ).css ( "height", "" );
+			}
+		}
+
+		$(document).ready(function() {
+			stmSpacing();
+		});
+
+		$(window).resize(function() {
+			stmSpacing();
+		});
+
+	})(jQuery);
+</script> 
+             <div class="vc_separator wpb_content_element vc_sep_width_100 type_1  vc_separator_no_text"> 
+              <span class="vc_sep_holder vc_sep_holder_l"><span class="vc_sep_line"></span></span> 
+              <span class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="vc_row wpb_row vc_row-fluid vc_custom_1533896200033 vc_row-has-fill" style="&quot;&quot;"> 
+          <div class="wpb_animate_when_almost_visible wpb_fadeIn fadeIn wpb_column vc_column_container vc_col-sm-12"> 
+           <div class="vc_column-inner "> 
+            <div class="wpb_wrapper"> 
+             <div class="vc_custom_heading text_align_center">
+              <h4 style="text-align: center;font-family:Actor;font-weight:400;font-style:normal">Powered By</h4>
+             </div> 
+             <div class="vc_image_carousel_wr grayscale Powered by"> 
+              <div class="vc_image_carousel style_1 owl-carousel stm_owl-theme owl-loaded" id="owl-605ef80ee1547"> 
+               <div class="owl-stage-outer">
+                <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 1657.26px;">
+                 <div class="owl-item active" style="width: 414.314px; margin-right: 0px;">
+                  <div class="item"> 
+                   <a href="#"> <img width="200" height="200" src="https://www.bidoo.network/wp-content/uploads/2021/03/Coin.png" class="attachment-full" alt="" loading="lazy" srcset="https://www.bidoo.network/wp-content/uploads/2021/03/Coin.png 200w, https://www.bidoo.network/wp-content/uploads/2021/03/Coin-150x150.png 150w, https://www.bidoo.network/wp-content/uploads/2021/03/Coin-50x50.png 50w" sizes="(max-width: 200px) 100vw, 200px"> </a> 
+                  </div>
+                 </div>
+                 <div class="owl-item" style="width: 414.314px; margin-right: 0px;">
+                  <div class="item"> 
+                   <a href="#"> <img width="200" height="200" src="https://www.bidoo.network/wp-content/uploads/2021/03/Trust.png" class="attachment-full" alt="" loading="lazy" srcset="https://www.bidoo.network/wp-content/uploads/2021/03/Trust.png 200w, https://www.bidoo.network/wp-content/uploads/2021/03/Trust-150x150.png 150w, https://www.bidoo.network/wp-content/uploads/2021/03/Trust-50x50.png 50w" sizes="(max-width: 200px) 100vw, 200px"> </a> 
+                  </div>
+                 </div>
+                 <div class="owl-item" style="width: 414.314px; margin-right: 0px;">
+                  <div class="item"> 
+                   <a href="#"> <img width="200" height="200" src="https://www.bidoo.network/wp-content/uploads/2021/03/Chain.png" class="attachment-full" alt="" loading="lazy" srcset="https://www.bidoo.network/wp-content/uploads/2021/03/Chain.png 200w, https://www.bidoo.network/wp-content/uploads/2021/03/Chain-150x150.png 150w, https://www.bidoo.network/wp-content/uploads/2021/03/Chain-50x50.png 50w" sizes="(max-width: 200px) 100vw, 200px"> </a> 
+                  </div>
+                 </div>
+                 <div class="owl-item" style="width: 414.314px; margin-right: 0px;">
+                  <div class="item"> 
+                   <a href="#"> <img width="200" height="200" src="https://www.bidoo.network/wp-content/uploads/2021/03/BSC.png" class="attachment-full" alt="" loading="lazy" srcset="https://www.bidoo.network/wp-content/uploads/2021/03/BSC.png 200w, https://www.bidoo.network/wp-content/uploads/2021/03/BSC-150x150.png 150w, https://www.bidoo.network/wp-content/uploads/2021/03/BSC-50x50.png 50w" sizes="(max-width: 200px) 100vw, 200px"> </a> 
+                  </div>
+                 </div>
+                </div>
+               </div>
+               <div class="owl-controls">
+                <div class="owl-nav">
+                 <div class="owl-prev" style="display: none;">
+                  prev
+                 </div>
+                 <div class="owl-next" style="display: none;">
+                  next
+                 </div>
+                </div>
+                <div class="owl-dots" style="display: none;"></div>
+               </div>
+              </div> 
+              <script type="text/javascript">
+		jQuery(document).ready(function ($) {
+            $(window).load(function(){
+			var owlRtl = false;
+			if( $('body').hasClass('rtl') ) {
+				owlRtl = true;
+			}
+			$("#owl-605ef80ee1547").owlCarousel({
+				rtl: owlRtl,
+								autoplay: true,
+								dots: false,
+				                				autoplayTimeout: 5000,
+				smartSpeed: 250,
+				responsive: {
+					0: {
+						items: 1					},
+					768: {
+						items: 4					},
+					980: {
+						items: 5					},
+					1199: {
+						items: 5					}
+				}
+			});
+            });
+		});
+	</script> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div data-vc-full-width="true" data-vc-full-width-init="true" class="vc_row wpb_row vc_row-fluid vc_custom_1533897601585 vc_row-has-fill" style="position: relative; left: 0px; box-sizing: border-box; width: 424px; padding-left: 0px; padding-right: 0px;" bottom="" center="" !important;="" &quot;=""> 
+          <div class="wpb_column vc_column_container vc_col-sm-12"> 
+           <div class="vc_column-inner "> 
+            <div class="wpb_wrapper"> 
+             <div class="stm-spacing" id="stm-spacing-605ef80ee2593" style="height: 61px;"></div> 
+             <script>
+	(function($){
+		"use strict";
+		var spacingID = 'stm-spacing-605ef80ee2593',
+			  lgSpacing = '61',
+			  mdSpacing = '61',
+			  smSpacing = '61',
+			  xsSpacing = '61';
+
+		function stmSpacing() {
+			if ( window.matchMedia("(min-width: 1200px)").matches && lgSpacing ) {
+				$( '#' + spacingID ).css ( "height", lgSpacing );
+			} else if ( window.matchMedia("(max-width: 1199px) and (min-width: 992px )").matches && mdSpacing ) {
+				$( '#' + spacingID ).css ( "height", mdSpacing );
+			} else if ( window.matchMedia("(max-width: 991px) and (min-width: 768px )").matches && smSpacing ) {
+				$( '#' + spacingID ).css ( "height", smSpacing );
+			} else if ( window.matchMedia("(max-width: 767px)").matches && xsSpacing ) {
+				$( '#' + spacingID ).css ( "height", xsSpacing );
+			} else {
+				$( '#' + spacingID ).css ( "height", "" );
+			}
+		}
+
+		$(document).ready(function() {
+			stmSpacing();
+		});
+
+		$(window).resize(function() {
+			stmSpacing();
+		});
+
+	})(jQuery);
+</script> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="vc_row-full-width vc_clearfix"></div> 
+        </div> 
+       </article> 
+      </div> 
+     </div> 
+     <!--.container--> 
+    </div> 
+    <!-- #main--> 
+   </div> 
+   <!--.content_wrapper--> 
+   <footer id="footer" class="footer style_1"> 
+    <div class="widgets_row"> 
+     <div class="container"> 
+      <div class="footer_widgets"> 
+       <div class="row"> 
+        <div class="col-lg-12 col-md-12 col-sm-6 col-xs-12"> 
+         <div class="footer_text"> 
+          <p>All content available on our website, on hyperlinked websites, and on applications, forums, blogs, social media accounts and other platforms associated with Bidoo.Network is intended solely to provide you with general information. We make no warranties of any kind with respect to our content, including, but not limited to, the accuracy and currency of the information. None of the content we provide should be construed as financial, legal or any other type of advice on which you may specifically rely for any purpose.<br> Any use or reliance you place on our content is solely at your own risk. What you should do is conduct your own research, review and analysis, and verify our content before relying on it. Trading is a high-risk activity that can result in significant losses, so you should consult with your financial advisor before making any decisions. Nothing on our Site should be considered an invitation or offer to take any action.<br> </p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="copyright_row"> 
+     <div class="container"> 
+      <div class="copyright_row_wr"> 
+       <div class="socials"> 
+        <ul> 
+         <li> <a href="https://twitter.com/BidooNetwork" target="_blank" class="social-twitter"> <i class="fa fa-twitter"></i> </a> </li> 
+         <li> <a href="https://github.com/ibidoonetwork/" target="_blank" class="social-github"> <i class="fa fa-github"></i> </a> </li> 
+         <li> <a href="https://t.me/ibidoonetwork" target="_blank" class="social-paper-plane"> <i class="fa fa-paper-plane"></i> </a> </li> 
+        </ul> 
+       </div> 
+       <div class="copyright">
+         Copyright © 2021 Bidoo Network. All rights reserved 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </footer> 
+  </div> 
+  <!-- #wrapper--> 
+  <link rel="stylesheet" id="vc_google_fonts_abril_fatfaceregular-css" href="//fonts.googleapis.com/css?family=Abril+Fatface%3Aregular&amp;ver=5.6.2" type="text/css" media="all"> 
+  <link rel="stylesheet" id="vc_animate-css-css" href="https://www.bidoo.network/wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min.css?ver=6.5.0" type="text/css" media="all"> 
+  <link rel="stylesheet" id="stm_timeline_white-css" href="https://www.bidoo.network/wp-content/themes/crypterio/assets/css/shared/vc/stm_timeline_white.css?ver=2.4.0" type="text/css" media="all"> 
+  <link rel="stylesheet" id="stm_token_structure-css" href="https://www.bidoo.network/wp-content/themes/crypterio/assets/css/shared/vc/stm_token_structure.css?ver=2.4.0" type="text/css" media="all"> 
+  <link rel="stylesheet" id="stm_panel_box-css" href="https://www.bidoo.network/wp-content/themes/crypterio/assets/css/shared/vc/stm_panel_box.css?ver=2.4.0" type="text/css" media="all"> 
+  <style id="stm_panel_box-inline-css" type="text/css">
+#stm_panel_box605ef80ee0000 .stm_panel_box__gradient {
+    background: linear-gradient(to right, #0095ff, #28efdb);
+}
+#stm_panel_box605ef80ee0000 .stm_panel_box__content ul li::before {
+	background: linear-gradient(to right, #0095ff, #28efdb);
+	background: -webkit-linear-gradient(to right, #0095ff, #28efdb);
+}
+#stm_panel_box605ef80ee0248 .stm_panel_box__gradient {
+    background: linear-gradient(to right, #603cab, #f15a91);
+}
+#stm_panel_box605ef80ee0248 .stm_panel_box__content ul li::before {
+	background: linear-gradient(to right, #603cab, #f15a91);
+	background: -webkit-linear-gradient(to right, #603cab, #f15a91);
+}
+</style> 
+  <link rel="stylesheet" id="vc_google_fonts_actorregular-css" href="//fonts.googleapis.com/css?family=Actor%3Aregular&amp;ver=5.6.2" type="text/css" media="all"> 
+  <link rel="stylesheet" id="owl.carousel-css" href="https://www.bidoo.network/wp-content/themes/crypterio/assets/css/owl.carousel.css?ver=2.4.0" type="text/css" media="all"> 
+  <script type="text/javascript" id="vcw-script-js-before">
+var VirtualCoinWidgets = {ajax_url: "https://www.bidoo.network/wp-admin/admin-ajax.php"};
+</script> 
+ </body>
+</html>
